@@ -4,3 +4,4 @@
 >CV2: is a library for computer vision tasks.
 >Skimage: is a library which supports image processing applications on python.
 >Matplotlib: is a library which generates figures and provides graphical user interface toolkit.
+>Python Imaging Library (PIL) − To perform basic operations on images like create thumnails, resize, rotation, convert between different file formats etc.
