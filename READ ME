@@ -1,0 +1,6 @@
+#image processing Involves:
+>Numpy: is an array manipulation library, used for linear algebra, Fourier transform, and random number capabilities.
+>Pandas: is a library for data manipulation and data analysis.
+>CV2: is a library for computer vision tasks.
+>Skimage: is a library which supports image processing applications on python.
+>Matplotlib: is a library which generates figures and provides graphical user interface toolkit.
